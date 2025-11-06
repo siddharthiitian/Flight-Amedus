@@ -1,3 +1,5 @@
+Live Website - https://flight-amedus-8ucwqsyarylskvuapuddrt.streamlit.app/
+
 ## AI-Powered Travel Itinerary Planner
 
 An AI travel assistant that generates personalized itineraries with Grok (xAI) via an OpenAI-compatible API and fetches live flight options from Amadeus. Delivered as an interactive Streamlit app.
